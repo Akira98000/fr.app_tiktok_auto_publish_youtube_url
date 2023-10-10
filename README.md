@@ -11,14 +11,13 @@ Ce programme permet de télécharger des vidéos depuis YouTube, de les découpe
 ## Installation
 
 1. Clonez le dépôt:
-
 git clone 'https://github.com/Akira98000/fr.app_tiktok_auto_publish_youtube_url/'
 
 2. Naviguez vers le dossier du projet:
-'''cd fr.app_tiktok_auto_publish_youtube_url'''
+cd fr.app_tiktok_auto_publish_youtube_url
 
 3. Installez les dépendances:
-'''pip install Flask pytube moviepy'''
+pip install Flask pytube moviepy
 
 
 ## Utilisation
